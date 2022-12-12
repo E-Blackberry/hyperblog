@@ -1,5 +1,7 @@
-Estas son algunas palabras del palabrero
+Estas son algunas palabras del palabrero,
 
 las palabras tienen color, belleza, matiz, olor, fragancia, tacto y
 
-mueve, aprieta, sacude todos los sentidos
+mueven, aprietan, sacuden todos los sentidos.
+
+Me siento feliz de estar programando.
