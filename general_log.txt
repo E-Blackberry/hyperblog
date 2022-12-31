@@ -1,0 +1,41 @@
+commit b1bbbd7dd3ac851cd84e17580f2f69606fdec777
+Author: Eddie Mora <e.m@zmail.com>
+Date:   Tue Dec 27 02:25:50 2022 -0600
+
+    Cambio de vida y maestría
+
+commit 8a79bf1567ff527b524b456185ad52c39eb9312a
+Author: Eddie Mora <e.m@zmail.com>
+Date:   Tue Dec 27 02:22:27 2022 -0600
+
+    Arranco mi proyecto real
+
+commit c11bf7a210943704c60bddc0b4c752f672683937
+Author: Eddie Mora <e.m@zmail.com>
+Date:   Tue Dec 27 01:56:28 2022 -0600
+
+    Después del RESET
+
+commit 84fef1b08ba4afe5d5093610714ca2393efea987
+Author: Eddie Mora <e.m@zmail.com>
+Date:   Thu Dec 15 00:27:02 2022 -0600
+
+    cambio 'completamente'
+
+commit ac21acc3f06b0e89ee4b16e710d11fedb9e08c7c
+Author: Eddie Mora <e.m@zmail.com>
+Date:   Thu Dec 15 00:04:12 2022 -0600
+
+    version 3
+
+commit 05ce21bee813340a1d025914cdbff7093690762d
+Author: Eddie Mora <e.m@zmail.com>
+Date:   Mon Dec 12 03:48:45 2022 -0600
+
+    Mi segundo commit
+
+commit 2739fe03e67eda586139eed7d15141451d470015
+Author: Eddie Mora <e.m@zmail.com>
+Date:   Mon Dec 12 03:37:52 2022 -0600
+
+    Mi primer commit
